@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--透明-->
+    <color name="alpha">#0000</color>
+    <!--白色-->
+    <color name="white">#fff</color>
+    <!--主题色-->
+    <color name="main">#07f</color>
+    <!--主题色2-->
+    <color name="main2">#0af</color>
+    <!--灰色-->
+    <color name="gray">#aabbcc</color>
+    <!--红色-->
+    <color name="red">#f00</color>
+</resources>

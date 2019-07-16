@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_left" type="id" />
+    <item name="btn_right" type="id" />
+    <item name="tv_title" type="id" />
+    <item name="et_number" type="id" />
+    <item name="et_psd" type="id" />
+    <item name="et_code" type="id" />
+    <item name="et_name" type="id" />
+    <item name="et_phone" type="id" />
+    <item name="tv_code" type="id" />
+    <item name="cb_psd" type="id" />
+    <item name="cb_auto" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="btn_register" type="id" />
+    <item name="btn_reset" type="id" />
+    <item name="spinner" type="id" />
+    <item name="et_seach" type="id" />
+    <item name="btn_seach" type="id" />
+    <item name="rv_list" type="id" />
+    <item name="ll_item" type="id" />
+    <item name="iv_image" type="id" />
+    <item name="tv_book" type="id" />
+    <item name="iv_book" type="id" />
+    <item name="tv_bookname" type="id" />
+    <item name="tv_author" type="id" />
+    <item name="tv_bookdate" type="id" />
+    <item name="tv_bookaddress" type="id" />
+    <item name="tv_booktype" type="id" />
+    <item name="tv_content" type="id" />
+    <item name="btn_borrow" type="id" />
+    <item name="tv_myborrow" type="id" />
+    <item name="tv_his" type="id" />
+    <item name="tv_myinfo" type="id" />
+    <item name="tv_exit" type="id" />
+    <item name="rv_borrow" type="id" />
+    <item name="iv_borrow" type="id" />
+    <item name="tv_startdate" type="id" />
+    <item name="tv_state" type="id" />
+</resources>

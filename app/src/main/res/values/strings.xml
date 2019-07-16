@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">图书借阅系统</string>
+    <string name="foot1">江西应用职业技术学院©版权所有</string>
+    <string name="foot2">作品人:XXX</string>
+    <string name="foot3">举报热线:88888888</string>
+    <string name="number">学 号:</string>
+    <string name="numberhint">请输入学号</string>
+    <string name="psd">密 码:</string>
+    <string name="psdhint">请输入密码</string>
+    <string name="codehint">请输入验证码</string>
+</resources>
